@@ -1,3 +1,9 @@
+dtkcore (6.7.8) unstable; urgency=medium
+
+  * Release 6.7.8
+
+ -- PukNgae Cryolitia <cryolitia@deepin.org>  Thu, 19 Jun 2025 16:10:18 +0800
+
 dtkcore (5.7.16) unstable; urgency=medium
 
   * fix: add missing UosMilitary edition type cases
