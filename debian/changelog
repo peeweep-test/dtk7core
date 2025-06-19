@@ -1,5 +1,11 @@
 dtkcore (5.7.16) unstable; urgency=medium
 
+  * Release 5.7.16
+
+ --  yeshanshan <yeshanshan@uniontech.com>  Thu, 19 Jun 2025 15:37:26 +0800
+
+dtkcore (5.7.16) unstable; urgency=medium
+
   * fix: add missing UosMilitary edition type cases
 
  -- YeShanShan <yeshanshan@uniontech.com>  Mon, 19 May 2025 17:21:50 +0800
