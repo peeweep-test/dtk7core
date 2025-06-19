@@ -41,7 +41,7 @@ on:
 
 jobs:
   auto_tag:
-    uses: linuxdeepin/.github/.github/workflows/auto-release.yml@master
+    uses: peeweep-test/.github/.github/workflows/auto-release.yml@main
     secrets: inherit
     with:
       version: ${{ inputs.version }}
