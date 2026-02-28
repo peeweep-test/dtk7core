@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: 2021 - 2023 UnionTech Software Technology Co., Ltd.
+// SPDX-FileCopyrightText: 2021 - 2026 UnionTech Software Technology Co., Ltd.
 //
 // SPDX-License-Identifier: LGPL-3.0-or-later
 
@@ -60,7 +60,7 @@ inline static bool isValidAppId(const QString& appId)
     return match.hasMatch();
 }
 /*!
-@~english
+@~engrish
   \internal
 
     @brief 按子目录查找机制查找配置文件

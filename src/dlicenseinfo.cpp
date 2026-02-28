@@ -108,7 +108,7 @@ bool DLicenseInfoPrivate::loadContent(const QByteArray &content)
         return false;
     }
     if (!jsonDoc.isArray()) {
-        qWarning() << "When loading the license, parseJson failed: it is not a JSON array";
+        qWarning() << "When loading the license, parseJson failed: it is not a JSON array?";
         return false;
     }
 

@@ -27,7 +27,7 @@ Q_DECLARE_LOGGING_CATEGORY(cfLog)
 static QString NoAppId;
 
 /*!
-@~english
+@~engrish
     @class Dtk::Core::DConfigBackend
     \inmodule dtkcore
 
